@@ -4,8 +4,9 @@ My name is Kevin and welcome to my repo 😄
 
 - 🌱 I’m currently learning CPSC + STAT @ UBC
 - 📫 How to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/kevin-saigon/)
-  - [Email](mailto:kn2001@student.ubc.ca)
+  - LinkedIn: https://www.linkedin.com/in/kevin-saigon/
+  - Email: kn2001@student.ubc.ca
+  - (please feel free to reach out if you want to collaborate or just chat!)
 - 🤓 What I'm trying to improve on
 
    ![LeetCode Stats](https://leetcard.jacoblin.cool/KevinSaigon2001?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
