@@ -1,14 +1,17 @@
 ### Hi there, I'm Kevin 👋
 
-📍 Vancouver, BC </br>
-📚 I’m currently learning CPSC + STAT @ UBC </br>
-✍️ ML, graph theory, sports analytics
-📫 How to reach me: </br>
+- 📍 vancouver, bc 
+- 📚 cpsc + stat @ ubc 
+- 🤓 ml (computer vision & neural nets), graph theory, sports analytics
+- 👨‍💻 prev @ [covalent](https://www.covalenthq.com), [railtown ai](https://www.railtown.ai)
+- 📫 how to reach me: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rightarrow; LinkedIn: https://www.linkedin.com/in/kevin-saigon/ </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rightarrow; Email: kn2001@student.ubc.ca </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rightarrow; (please feel free to reach out if you want to collaborate or just chat!)</br>
-🤓 How I spend my free time</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![LeetCode Stats](https://leetcard.jacoblin.cool/KevinSaigon2001?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+
+</br>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/KevinSaigon2001?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 
 
 <!--
