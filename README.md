@@ -6,6 +6,10 @@ My name is Kevin and welcome to my repo 😄
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/kevin-saigon/)
   - [Email](mailto:kn2001@student.ubc.ca)
+- 🤓 What I'm trying to improve on
+
+   ![LeetCode Stats](https://leetcard.jacoblin.cool/KevinSaigon2001?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+
 
 <!--
 **KevinSaigon/kevinsaigon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
