@@ -3,7 +3,7 @@
 - 📍 vancouver, bc 
 - 📚 cpsc + stat @ ubc 
 - 🤓 ml (computer vision & neural nets), graph theory, sports analytics
-- 👨‍💻 prev @ [covalent](https://www.covalenthq.com), [railtown ai](https://www.railtown.ai)
+- 👨‍💻 prev @ [coinbase](https://www.coinbase.com), [covalent](https://www.covalenthq.com), [railtown ai](https://www.railtown.ai)
 - 📫 how to reach me: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rightarrow; LinkedIn: https://www.linkedin.com/in/kevin-saigon/ </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rightarrow; Email: kn2001@student.ubc.ca </br>
