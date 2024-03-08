@@ -15,9 +15,9 @@ $whoami
 
 </br>
 
-| Leetcode  | Github  |
-| ---------------------- | -------------------------------- |
-| ![Kevin's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/kevinsaigon2001?theme=dark) | ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsaigon&show_icons=true&theme=transparent&hide_border=true) |
+| Leetcode  | Github  | Top Languages
+| - | - | - |
+| ![Kevin's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/kevinsaigon2001?theme=dark) | ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsaigon&show_icons=true&theme=transparent&hide_border=true&hide_rank=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsaigon&theme=transparent&hide_border=true&layout=compact) |
 
 
 <!--
