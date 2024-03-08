@@ -6,16 +6,18 @@ $whoami
 
 - 📍 vancouver, bc 
 - 📚 cpsc + stat @ ubc 
-- 🤓 ml, graph theory, sports analytics
+- 🤓 ml, graph theory, distributed systems
 - 👨‍💻 prev @ [coinbase](https://www.coinbase.com), [covalent](https://www.covalenthq.com), [railtown ai](https://www.railtown.ai)
-- 📫 how to reach me: 
+- 📫 how to reach me (pls feel free to reach out if you want to collaborate or just chat!): 
     - linkedin: https://www.linkedin.com/in/kevin-saigon/
     - email: kn2001@student.ubc.ca
-    - (please feel free to reach out if you want to collaborate or just chat!)
+    - see more at: https://kevinsaigon.com
 
 </br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/KevinSaigon2001?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+| GitHub                                                                                                                                             | LeetCode                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsaigon&show_icons=true&theme=transparent&hide_border=true) | ![Kevin's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/kevinsaigon2001?theme=dark) |
 
 
 <!--
@@ -31,4 +33,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/KevinSaigon2001?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 -->
