@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/KevinSaigon2001?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/KevinSaigon2001?theme=dark&font=Source%20Serif%20Pro&ext=heatmap)
+
 
 | Leetcode  | Github  | Top Languages
 | - | - | - |
