@@ -17,7 +17,7 @@ $whoami
 
 | Leetcode  | Github  | 
 | - | - |
-| ![Kevin's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/KevinSaigon2001?theme=dark) | ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsaigon&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)
+| ![Kevin's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/ksaigon?theme=dark) | ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsaigon&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)
 
 
 <!--
