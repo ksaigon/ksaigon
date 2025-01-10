@@ -11,7 +11,7 @@ $whoami
 - 📫 how to reach me (pls feel free to reach out if you want to collaborate or just chat!): 
     - linkedin: https://www.linkedin.com/in/kevin-saigon/
     - email: kn2001@student.ubc.ca
-    - see more at: https://kevinsaigon.com
+    - see more at: https://ksaigon.com
 
 </br>
 
@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 | - | - | - |
 | ![Kevin's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/kevinsaigon2001?theme=dark) | ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsaigon&show_icons=true&theme=transparent&hide_border=true&hide_rank=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsaigon&theme=transparent&hide_border=true&layout=compact) |
 
+
+- see more at: https://kevinsaigon.com
 
 -->
