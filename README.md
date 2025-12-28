@@ -15,11 +15,11 @@ $whoami
 
 </br>
 
+<!--
 | Leetcode  | Github  | 
 | - | - |
 | ![Kevin's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/ksaigon?theme=dark) | ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaigon&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)
-
-
+--->
 <!--
 **KevinSaigon/kevinsaigon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
