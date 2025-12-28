@@ -10,7 +10,7 @@ $whoami
 - 👨‍💻 currently @ [stripe](https://stripe.com), previously @ [coinbase](https://www.coinbase.com), [covalent](https://www.covalenthq.com) and [railtown.ai](https://www.railtown.ai)
 - 📫 how to reach me (pls feel free to reach out if you want to collaborate or just chat!): 
     - linkedin: https://www.linkedin.com/in/kevin-saigon/
-    - email: ksaigon [dot] asap@gmail [dot] com
+    - email: ksaigon.asap [at] gmail [dot] com
     - see more at: https://ksaigon.com
 
 </br>
