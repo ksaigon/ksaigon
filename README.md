@@ -4,13 +4,13 @@ $whoami
 
 ### Hi there, I'm Kevin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-- 📍 vancouver, bc 
+- 📍 seattle, wa
 - 🎓 cpsc + stat @ ubc 
-- 🤓 ml, graph theory, distributed systems
-- 👨‍💻 prev @ [coinbase](https://www.coinbase.com), [covalent](https://www.covalenthq.com), [railtown ai](https://www.railtown.ai)
+- 🤓 broadly interested in graph theory, ml, distributed systems & consensus algorithms
+- 👨‍💻 currently @ [stripe](https://stripe.com), previously @ [coinbase](https://www.coinbase.com), [covalent](https://www.covalenthq.com) and [railtown.ai](https://www.railtown.ai)
 - 📫 how to reach me (pls feel free to reach out if you want to collaborate or just chat!): 
     - linkedin: https://www.linkedin.com/in/kevin-saigon/
-    - email: kn2001@student.ubc.ca
+    - email: ksaigon [dot] asap@gmail [dot] com
     - see more at: https://ksaigon.com
 
 </br>
