@@ -12,7 +12,6 @@ $whoami
     - linkedin: https://www.linkedin.com/in/kevin-saigon/
     - email: ksaigon.asap [at] gmail [dot] com
     - see more at: https://ksaigon.com
-
 </br>
 
 <!--
